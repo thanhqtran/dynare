@@ -14,3 +14,7 @@ Codes in Dynare for the models developed in each chapter are the following (the 
 - model10.mod: Human capital.
 - model11.mod: Home production.
 - model12.mod: Monopolistic competition.
+
+Download the original codes and book here: https://vernonpress.com/book/54
+
+In this repo, I change the figure commands for 7a-8b to make the code work.

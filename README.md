@@ -1,0 +1,2 @@
+# dynare
+Testing dynare codes

@@ -49,4 +49,6 @@ var e;
 stderr 0.01; 
 end;
 
-stoch_simul;
+stoch_simul(order=1, irf=40) Y I C R K W L P A;
+// store the results
+rbc_results = oo_.irfs;

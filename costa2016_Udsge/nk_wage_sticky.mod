@@ -60,4 +60,6 @@ var e;
 stderr 0.01; 
 end;
 
-stoch_simul(qz_zero_threshold=1e-20) Y I C R K W L PI A;
+stoch_simul(order=1, irf=40, qz_zero_threshold=1e-20) Y I C R K W L P PI A;
+// store results
+nk_sticky_results = oo_.irfs;
